@@ -1,1 +1,5 @@
 Can I carry over unused leave?,7,0.95,y,200
+Who approves my leave if my manager is on leave?,4,0.99,y,200
+Can I take half a day of sick leave?,3,0.95,y,200
+How many days in advance must I apply for casual leave?,2,0.98,y,200
+What's the canteen menu today?,Not found,0.0,n,Not sent
